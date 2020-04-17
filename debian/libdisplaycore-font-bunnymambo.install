@@ -1,2 +1,2 @@
-BunnyMambo60.cpp libraries/DisplayCore/BunnyMambo
-BunnyMambo.h libraries/DisplayCore/BunnyMambo
+src libraries/DisplayCore/BunnyMambo
+library.properties libraries/DisplayCore/BunnyMambo

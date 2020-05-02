@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::BunnyMambo60 
 
-![BunnyMambo60](https://raw.githubusercontent.com/DisplayCore/BunnyMambo/master/Preview/BunnyMambo60.png)
+![BunnyMambo60](https://raw.githubusercontent.com/Cariad/BunnyMambo/master/Preview/BunnyMambo60.png)
 

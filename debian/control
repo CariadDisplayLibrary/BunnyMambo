@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-bunnymambo
+Source: libcariad-font-bunnymambo
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-bunnymambo
+Package: libcariad-font-bunnymambo
+Replaces: libdisplaycore-font-bunnymambo
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: BunnyMambo.h
 Description: BunnyMambo
